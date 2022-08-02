@@ -1,0 +1,2 @@
+# TYPESCRIPT
+Exercises of typescript
